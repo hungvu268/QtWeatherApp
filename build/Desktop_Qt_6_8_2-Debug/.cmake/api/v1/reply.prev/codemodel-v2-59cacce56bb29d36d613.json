@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a8317db8dcf35454534d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtWeatherApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtWeatherApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtWeatherApp-Debug-546992ea978fbe91f43a.json",
+					"name" : "QtWeatherApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtWeatherApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtWeatherApp_autogen-Debug-e1186174ac9c22ee2a2e.json",
+					"name" : "QtWeatherApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtWeatherApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtWeatherApp_autogen_timestamp_deps-Debug-8a0d005434603580ef05.json",
+					"name" : "QtWeatherApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hungvu/demo_0/build/Desktop_Qt_6_8_2-Debug",
+		"source" : "/home/hungvu/demo_0"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

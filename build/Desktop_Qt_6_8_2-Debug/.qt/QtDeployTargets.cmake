@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_QtWeatherApp_FILE /home/hungvu/demo_0/build/Desktop_Qt_6_8_2-Debug/QtWeatherApp)
-set(__QT_DEPLOY_TARGET_QtWeatherApp_TYPE EXECUTABLE)
